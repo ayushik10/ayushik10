@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C, C++, DSA & Web Development**
 
-- 📫 How to reach me **aaaaaaaa@aa.aaaaa**
+- 📫 Reach me at **ayushik1603@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
