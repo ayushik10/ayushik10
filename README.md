@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java & OS**
+- 🌱 I’m currently working on a project related to web development
 
-- 💬 Ask me about **C, C++, DSA, Java, OS & Web Development**
+- 💬 Ask me about **C, C++, DSA, Java, Python, DBMS, OS & Web Development**
 
 - 📫 Reach me at **ayushik1603@gmail.com**
 
